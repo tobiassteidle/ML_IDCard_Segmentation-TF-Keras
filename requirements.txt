@@ -11,7 +11,7 @@ seaborn
 tqdm
 xgboost
 PyWavelets
-tensorflow-gpu==1.15.2
+tensorflow-gpu==1.15.4
 Keras==2.2.4
 h5py
 ipykernel
