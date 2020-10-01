@@ -3,7 +3,7 @@ Machine Learning Project to identify an ID Card on an image.
 
 ### Objectives
 The goal of this project is to recognize a ID Card on a photo, cut it out using semantic segmentation and to 
-transform the perspective so that you get a frontal view of the ID Card.
+transform the perspective so that you get a front view of the ID Card.
 Optionally an OCR text recognition can be done in a later step.
 However, this is not yet planned in the scope of this project.
 
