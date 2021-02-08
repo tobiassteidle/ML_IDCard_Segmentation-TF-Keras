@@ -1,4 +1,6 @@
-# ML_IDCard_Segmentation
+# Deprecated - Switched to [Pytorch](https://github.com/tobiassteidle/ML_IDCard_Segmentation_Pytorch) 
+
+# ML_IDCard_Segmentation (Tensorflow / Keras)
 Machine Learning Project to identify an ID Card on an image.  
 
 ### Objectives
